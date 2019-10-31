@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //To Open:
                 drawerLayout.openDrawer(GravityCompat.START);
 
+
             }
         });
     }
